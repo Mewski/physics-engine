@@ -1,0 +1,8 @@
+//
+// Created by Mewski on 3/30/2023.
+//
+
+#ifndef PHYSICS_ENGINE_UTILITIES_H
+#define PHYSICS_ENGINE_UTILITIES_H
+
+#endif //PHYSICS_ENGINE_UTILITIES_H
